@@ -1,1 +1,1 @@
-collaborative 3
+# Monty project for ALX Africa Software Education
